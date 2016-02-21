@@ -1,0 +1,7 @@
+.DS_Store
+*.iso
+*.box
+virtualfloppy.vfd
+builds
+*.log
+packer_cache
